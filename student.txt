@@ -1,0 +1,3 @@
+Name: Bhuvisha Gohil, Course: Full Stack development, Technology: Node.js
+Experience: 1 year
+City: Kolkata
